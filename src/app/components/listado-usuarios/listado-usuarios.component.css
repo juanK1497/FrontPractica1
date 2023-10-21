@@ -1,0 +1,39 @@
+table {
+    width: 100%;
+  }
+.title{
+    padding:30px;
+    background-color: #359C60;
+    text-align: center;
+    color: black;
+}
+  .container{
+   margin: 5% 20%;
+  }
+
+
+  td, th{
+    width: 10%;
+    
+  }
+
+  .mat-mdc-form-field {
+    font-size: 30px;
+    width: 100%;
+  }
+  .delete{
+    cursor: pointer;
+    color: #52BE80;
+  }
+  .search{
+    cursor: pointer;
+    color: #52BE80;
+  }
+  .edit{
+    cursor: pointer;
+    color: #52BE80;
+  }
+  .aceptar{
+    font-size: 10px;
+    line-height: 28px;
+  }
